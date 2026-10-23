@@ -60,9 +60,9 @@ All three SGs have default outbound allow-all (teaching-lab setting). Private su
 | Bastion jump → App-A via SSH | Successful |
 | Bastion jump → App-B via SSH | Successful |
 | App-A → App-B ping | **4/4 replies, 0% packet loss** |
-| App-B → App-A ping | User-confirmed (terminal screenshot pending) |
+| App-B → App-A ping | Successful |
 | Remove App-B ICMP rule, retest | **4 sent, 0 received, 100% loss** |
-| Restore App-B rule | User-confirmed (screenshot pending) |
+| Restore App-B rule | Successful  |
 
 These results come from the prior manual implementation; **do not present them as tests of the Terraform files**. Screenshot evidence can be added to `docs/screenshots/` after redacting sensitive information.
 
