@@ -11,5 +11,5 @@ Upload screenshots from **your own AWS Console lab**, after cropping/redacting a
 7. Three EC2 instances and private-IP details; avoid exposing public IP unnecessarily.
 8. App-A ↔ App-B ping connectivity evidence.
 9. Security-group rule removed → 100% ping loss → restored connection, if screenshots are available.
+https://drive.google.com/drive/folders/1Ih4VyG17SVpJH2dWBdrWzZ9wNR8CEJrR?usp=sharing
 
-Only upload real screenshots. Do not invent test output.
