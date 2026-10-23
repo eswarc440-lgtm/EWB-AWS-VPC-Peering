@@ -8,10 +8,9 @@ https://github.com/eswarc440-lgtm/EWB-AWS-VPC-Peering	Watch Project Demonstratio
  
 
 Scan to Watch Project Demo
-https://drive.google.com/file/d/1TDjHjTIXCKX_4DxXvPcJrpXFTR3WL7ZD/view?usp=sharing
-View pictures
+https://drive.google.com/file/d/1TDjHjTIXCKX_4DxXvPcJrpXFTR3WL7ZD/view?usp=drive_link
 
          
-      Scan to open the images  
+Scan to open the images  
 https://drive.google.com/drive/folders/1Ih4VyG17SVpJH2dWBdrWzZ9wNR8CEJrR?usp=drive_link
 
