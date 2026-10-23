@@ -1,0 +1,36 @@
+# Terraform working directories, state and secrets
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# AWS, SSH and sensitive credential material
+*.pem
+*.key
+*.p12
+*.pfx
+*.ppk
+**/.aws/
+**/.ssh/
+.env
+.env.*
+*.secret
+*.secrets
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Live account exports can contain sensitive account/IP details
+aws-inventory/
+exported-inventory/
